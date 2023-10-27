@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/raymond12324](https://github.com/raymond12324)
 
-- 💬 Ask me about **Angular "Typescript" & .Net 5+**
+- 💬 Ask me about **Angular,Typescript & .Net 5+**
 
 <h3 align="left">Languages and Tools:</h3>
 
