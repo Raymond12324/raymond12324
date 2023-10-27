@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Randolph Carmona</h1>
 <h3>A Software Engineer from Dominican Republic 🇩🇴</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/raymond12324](https://github.com/raymond12324)
+- 👨‍💻 All of my projects are available at [https://github.com/raymond12324](https://github.com/raymond12324?tab=repositories)
 
 - 💬 Ask me about **Angular,Typescript & .Net 5+**
 
